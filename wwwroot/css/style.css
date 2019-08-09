@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+body{
+    margin: 10px;
+    display: inline-block;
+    width: 100%;
+}
+
+.codeBox {
+    display: block;
+    width: 40%;
+    height: auto;
+    border: 5px solid blue;
+    margin: 50px auto;
+}
+
+h1, h2 {
+    display: block;
+    margin: 8px auto;
+    text-align: center;
+}
+
+.passcode {
+    border: 5px solid red;
+    width: 400px;
+    margin: 20px auto;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+}
